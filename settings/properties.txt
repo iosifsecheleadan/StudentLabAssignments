@@ -1,0 +1,10 @@
+repository = "textFile" 
+students = 
+assignments = 
+grades = 
+
+# DO NOT MODIFY THE LINES OR THEIR ORDER IN ANY WAY
+# repository can be "inMemory"/"textFile"/"binaryFile"
+# students have "ID, group, name", etc
+# assignments have "ID, deadline, description", etc
+# grades have "studentID, assignmentID, grade", etc
